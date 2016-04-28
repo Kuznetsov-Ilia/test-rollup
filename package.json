@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "test",
   "scripts": {
-    "test": "rollup index.js"
+    "test": "rollup index.js -f cjs"
   },
   "dependencies": {
     "rollup": "*"
